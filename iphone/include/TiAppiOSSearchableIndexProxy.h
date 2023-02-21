@@ -1,0 +1,1 @@
+#import "../Classes/TiAppiOSSearchableIndexProxy.h"

@@ -1,0 +1,1 @@
+#import "../Classes/TiUIiOSSplitWindowProxy.h"

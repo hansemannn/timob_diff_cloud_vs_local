@@ -1,0 +1,1 @@
+#import "../Classes/TIDOMDocumentTypeProxy.h"
