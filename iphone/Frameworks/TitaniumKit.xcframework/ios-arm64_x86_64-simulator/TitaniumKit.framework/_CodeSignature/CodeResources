@@ -290,7 +290,7 @@
 		</data>
 		<key>Headers/TitaniumKit-Swift.h</key>
 		<data>
-		qAuP4vTl4PVNBzp/OKW+qUDKmbU=
+		3iICV73WUy9HeE785u1Q/QyEDGA=
 		</data>
 		<key>Headers/TitaniumKit.h</key>
 		<data>
@@ -318,59 +318,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3KfvyKob3lxxQJTu7AxeW7K0X30=
+		Tq7r2aoqo1AY0P3Wp3hdFtuOFmI=
+		</data>
+		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		xQN8tH74hW6XZZ8MBz/QT+81hc8=
+		</data>
+		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		3d+GY6B7S+UJ0k4td0pJNMGT7l0=
 		</data>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		3r4SyG+mNmSlmjVXkQmW5hyklGs=
+		wmSlm97aLYXpxtNxrePDwOJtkyM=
 		</data>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HkCEfZPEkceHMEOycOz6rg4Eqbo=
+		3d+GY6B7S+UJ0k4td0pJNMGT7l0=
 		</data>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WBxzOqL009FAJJs51EhKdpY86tc=
+		pFVlgW7k/fO8VhZRXMRrob+Q5eA=
 		</data>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3r4SyG+mNmSlmjVXkQmW5hyklGs=
+		xQN8tH74hW6XZZ8MBz/QT+81hc8=
 		</data>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HkCEfZPEkceHMEOycOz6rg4Eqbo=
-		</data>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		WBxzOqL009FAJJs51EhKdpY86tc=
+		xmYuFaVPo+s4QLTZv4XKuc/ryD4=
 		</data>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1eAhEUQpwBgZ4VQWHayT3wbo3ww=
+		Dx+O8Unc7lh9rSGbsd96E6uMvHI=
 		</data>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1VD8LiR8YtU/bsWMK+BkpxuvmZM=
+		xmYuFaVPo+s4QLTZv4XKuc/ryD4=
 		</data>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3LvVq7550xxRk9H1FqphYa+NekA=
-		</data>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		1eAhEUQpwBgZ4VQWHayT3wbo3ww=
-		</data>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		1VD8LiR8YtU/bsWMK+BkpxuvmZM=
-		</data>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		3LvVq7550xxRk9H1FqphYa+NekA=
+		+E0/3mbqps0td6UXOkGZteyfd4s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		SyyKLKkxviQyUhY5sCZ9PSKvPrE=
+		EJMzopkDbcL3L5pnvsYrOUjIRLk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -876,7 +868,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lVtp9EsNJowMRSjkul9vO+Y4QtMEmS7fEZbjTPEEm/k=
+			Z1EA+Vywy2nhXVdtISI2n+WByiOZFlbBs6PqL/+BiyI=
 			</data>
 		</dict>
 		<key>Headers/TitaniumKit.h</key>
@@ -921,95 +913,81 @@
 			SG6bztBGy+8F9o4WKlA93Vg1kU3z0O0EpTdqQP0PC3c=
 			</data>
 		</dict>
+		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fJ2QgygIo+Q7ZJU0UOPuYjzOAMV+YFa1FEiG6t1PH/8=
+			</data>
+		</dict>
+		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zCmAZequqRXTxR9ONKYJ/i48T2XORabxrmNO5ROcYAc=
+			</data>
+		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YGAc5Gg6ZST8Ga728K+S0Fk9e8dhZnzcRI4oS3xYsZI=
+			XPn7qjLTSqLQ86mloTrZxAhWO6333Rxr6RufoetxM/A=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FWoe6K3nKu1F9+VDlSv6Wp8ZLGWJvsbux8+u0YgG+Ec=
+			zCmAZequqRXTxR9ONKYJ/i48T2XORabxrmNO5ROcYAc=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			crFf/i+3AoSue6QvBqGamzgrn9z2vNsJSh8UM68O3dM=
+			ix6qXGZ5lPESM56Wtr6Hw+lLjRwb1cJ/9ujDnNpltPw=
 			</data>
 		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YGAc5Gg6ZST8Ga728K+S0Fk9e8dhZnzcRI4oS3xYsZI=
+			fJ2QgygIo+Q7ZJU0UOPuYjzOAMV+YFa1FEiG6t1PH/8=
 			</data>
 		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FWoe6K3nKu1F9+VDlSv6Wp8ZLGWJvsbux8+u0YgG+Ec=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			crFf/i+3AoSue6QvBqGamzgrn9z2vNsJSh8UM68O3dM=
+			4jJ/FqQkWHeAjGBWzUzNMyAZpmAAXcog7d55HXTxJpI=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XX1IxQ/a+57dk32/5a9uUXlO72Fj6nrYN3L+OdC3Okc=
+			xztkvffeGa3P28bMGeAlpI3oIP3sCp9QgZiSxzJ3Iiw=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CtCgVV93paj2AVjwxlAaIj0/34IjeYM21BmLXfjQs4o=
+			4jJ/FqQkWHeAjGBWzUzNMyAZpmAAXcog7d55HXTxJpI=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RlNbLWYiWafGs2LOysiRScnZiL4mO1ZLOJZbR0Yp+r0=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XX1IxQ/a+57dk32/5a9uUXlO72Fj6nrYN3L+OdC3Okc=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CtCgVV93paj2AVjwxlAaIj0/34IjeYM21BmLXfjQs4o=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RlNbLWYiWafGs2LOysiRScnZiL4mO1ZLOJZbR0Yp+r0=
+			tBZ0Xel849COT0v4YbfMmmtmgf603Jp/tSeaFLXLB/c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m9Vi5AERhGXKeMTfhmh1YtVy9qqvL/VFdQK5EsUlvWI=
+			iN7G9nF0qaiAHEehYbO284pGqOJdmjRbOAreFFYjmzc=
 			</data>
 		</dict>
 	</dict>

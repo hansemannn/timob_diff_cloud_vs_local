@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		zNbsFTO6NYUWRFwNoCjVzameQBo=
+		o8wXbqa1lu0EDdhuwDeAQv6cDz4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -512,7 +512,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lVtp9EsNJowMRSjkul9vO+Y4QtMEmS7fEZbjTPEEm/k=
+			Z1EA+Vywy2nhXVdtISI2n+WByiOZFlbBs6PqL/+BiyI=
 			</data>
 		</dict>
 		<key>Headers/TitaniumKit.h</key>
@@ -557,102 +557,88 @@
 			SG6bztBGy+8F9o4WKlA93Vg1kU3z0O0EpTdqQP0PC3c=
 			</data>
 		</dict>
+		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fJ2QgygIo+Q7ZJU0UOPuYjzOAMV+YFa1FEiG6t1PH/8=
+			</data>
+		</dict>
+		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Uv2odZesT7w2oCs/NkK7n9mmxcObwo5iiXXRk45EUA=
+			</data>
+		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sXdxxaoaIOJjLP1zP1xCV9mklPiI/qIsXB6Srsq1ps0=
+			ppCvqFxCQkMUa6/aYv8eSHCEYWfsMupA6v1qUD5KwNw=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bswWI0PxEU2tnKpIN8rAZy/JrCcSyIfMRvw8Fm6ScV4=
+			/Uv2odZesT7w2oCs/NkK7n9mmxcObwo5iiXXRk45EUA=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UDg4vHq9N7+RAsuEdCEgULYt2pCIDG2wzdEXdNmr0mI=
+			2jodGw6EUvLaRrRZy4vIfl6x0tt38fP7RtlZJP+07EE=
 			</data>
 		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sXdxxaoaIOJjLP1zP1xCV9mklPiI/qIsXB6Srsq1ps0=
+			fJ2QgygIo+Q7ZJU0UOPuYjzOAMV+YFa1FEiG6t1PH/8=
 			</data>
 		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bswWI0PxEU2tnKpIN8rAZy/JrCcSyIfMRvw8Fm6ScV4=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UDg4vHq9N7+RAsuEdCEgULYt2pCIDG2wzdEXdNmr0mI=
+			UuW1AJesfSieTvJQ3tY8CzvP/qZ3RxugKSTgyFNwWX0=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x2/k0jwZQ34Hki9awSAqfTLyL6Pv+VYjBA1HcrNZaLU=
+			V0ZaWmopp6cNCyTLQqx4XvA7+ZBG1ypce8jLJuP/Z2I=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j8cCWA5dQgrBlxy6iTyrSDXf9PfrC44sxuZ6pRg2xd0=
+			UuW1AJesfSieTvJQ3tY8CzvP/qZ3RxugKSTgyFNwWX0=
 			</data>
 		</dict>
 		<key>Modules/TitaniumKit.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gj3fyzSKfWG4FP+TuJjEfFNC9Z5KhxvDJEf/sj540k8=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x2/k0jwZQ34Hki9awSAqfTLyL6Pv+VYjBA1HcrNZaLU=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			j8cCWA5dQgrBlxy6iTyrSDXf9PfrC44sxuZ6pRg2xd0=
-			</data>
-		</dict>
-		<key>Modules/TitaniumKit.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gj3fyzSKfWG4FP+TuJjEfFNC9Z5KhxvDJEf/sj540k8=
+			71qwVzyrlDFMIrYGrkXk7rI9DPJ9fMCJm9F60fxAGLk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m9Vi5AERhGXKeMTfhmh1YtVy9qqvL/VFdQK5EsUlvWI=
+			iN7G9nF0qaiAHEehYbO284pGqOJdmjRbOAreFFYjmzc=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JwVOVlRLCJfMS50JAlGLJIWojfAH54OxpkjMVe5OdO8=
+			ttY7tOlv4AA9x8rX9RHKvusxNUJRRJGmjGeUm2Cnm5g=
 			</data>
 		</dict>
 	</dict>
